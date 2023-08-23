@@ -1,0 +1,25 @@
+.navbar-container {
+    height: 100vh;
+    width: 10vw;
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.nav-item {
+    height: 20px;
+    width: 100%;
+}
+
+.nav-item h3 {
+    color: rgb(12, 12, 150);
+    font-size: 1rem;
+    text-align: left;   
+    padding-left: 5%;
+    cursor: pointer;
+}

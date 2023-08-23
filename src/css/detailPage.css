@@ -1,0 +1,14 @@
+.post-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #e7e7e7;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-container img {
+    height: 60vh;
+    width: 100%;
+}
